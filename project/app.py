@@ -64,11 +64,11 @@ total_observations = data['country'].count()
 st.write("Total case observations:", total_observations)        
 
 #Top country table
-country_counts = data.groupby('country').size().reset_index(name='cases')
+country_counts = data.groupby('country').size().reset_index(name='new cases')
 top_countries = country_counts.sort_values(by='cases', ascending=False).head(3)
 
 #Top dates table - Yijun
-date_counts = data.groupby('reportingDate').size().reset_index(name='observation_counts')
+date_counts = data.groupby('reportingDate').size().reset_index(name='new cases')
 top_dates = date_counts.sort_values(by='observation_counts', ascending=False).head(3)
 
 
