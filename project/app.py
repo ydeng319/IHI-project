@@ -77,11 +77,15 @@ col1, col2 = st.columns(2)
 
 with col1:
     st.header("Countries with most cases")
-    st.table(top_countries)
-
+    html_table = top_countries.to_html(index=False)
+    st.markdown(html_table, unsafe_allow_html=True)
+    
 with col2:
     st.header("Dates with most new cases")
-    st.table(top_dates)
+    html_table = top_dates.to_html(index=False)
+    st.markdown(html_table, unsafe_allow_html=True)
+
+
 
 
 st.write(data)  # Display the data as a table below the map
