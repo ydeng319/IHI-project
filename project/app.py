@@ -4,7 +4,7 @@ import pydeck as pdk
 import datetime
 from google import genai
 import os
-api_key = os.getenv("API_KEY")
+api_key = os.getenv("GOOGLE_GENAI_API_KEY")
 def generate_json(pivot_table):
     output = {}
     for id, row in pivot_table.iterrows():
