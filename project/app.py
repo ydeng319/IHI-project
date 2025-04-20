@@ -209,7 +209,7 @@ st.download_button(
 )
 
 #Total case count metric
-total_observations = data['country'].count()
+total_observations = filtered_data['country'].count()
 st.write("Total case observations:", total_observations)        
 
 #Top country table
