@@ -13,7 +13,7 @@ project/
 ```
 ---
 
-### Architecture Diagram
+## Architecture Diagram
 The architecture diagram of this project is shown in Figure. The breakdown of the components and their relationships include:
 
 User: Represents the end user who interacts with the system to visualize the bird flu spread trend
@@ -26,7 +26,7 @@ For an user accesses the web app hosted on a cloud server, which retrieves data 
 ![App Overview](diagram.png)
 
 ---
-### Application Test Steps
+## Application Test Steps
 
 
 | **Test Step**                    | **Test Data**                                                                                                           | **Test Result**                                                                                                                                               |
