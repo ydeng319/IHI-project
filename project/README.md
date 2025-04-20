@@ -25,7 +25,7 @@ Bird Flu Data: The dataset that is used by the Streamlit component to create vis
 For an user accesses the web app hosted on a cloud server, which retrieves data visualizations powered by Streamlit from the bird flu data, and all updates or application code are managed through a GitHub repository.
 
 ![App Overview](images/diagram.png)
-
+###
 
 ### Application Test Steps
 
