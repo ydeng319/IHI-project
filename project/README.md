@@ -39,4 +39,3 @@ For an user accesses the web app hosted on a cloud server, which retrieves data 
 | **Zoom map**                    | Hover over map and scroll mouse wheel.                                                                                 | Map zooms in and out accordingly.                                                                                                                              |
 | **Export data**                 | Click the “Export data” button under the map.                                                                          | Filtered new cases data is downloaded as a CSV file.                                                                                                          |
 
-### 
