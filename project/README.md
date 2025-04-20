@@ -11,7 +11,6 @@ project/
 ├── README.md                  # Project documentation
 ├── Outbreak_240817.csv     # Raw data file
 
- ```bash
 
 ### Application Test Steps
 
