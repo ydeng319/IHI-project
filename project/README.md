@@ -11,7 +11,6 @@ project/
 ├── README.md                  # Project documentation
 ├── Outbreak_240817.csv     # Raw data file
 
-```bash
 
 ### Architecture Diagram
 The architecture diagram of this project is shown in Figure 1. The breakdown of the components and their relationships include:
