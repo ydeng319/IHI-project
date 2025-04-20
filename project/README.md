@@ -23,7 +23,7 @@ GitHub Repo: Stores the application's code and possibly the bird flu data or scr
 Data Visualization: A python script for the date preprocessing and visualization pipeline, along with a web app, built using Streamlit, dedicated to visualizing the bird flu data effectively.
 Bird Flu Data: The dataset that is used by the Streamlit component to create visualizations. It’s stored in a database or a similar data storage solution (e.g. csv file) accessible by the web app.
 For an user accesses the web app hosted on a cloud server, which retrieves data visualizations powered by Streamlit from the bird flu data, and all updates or application code are managed through a GitHub repository.
-![App Overview](images/diagram.png)
+![App Overview](diagram.png)
 
 ---
 ### Application Test Steps
