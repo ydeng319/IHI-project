@@ -12,6 +12,7 @@ project/
 ├── Outbreak_240817.csv     # Raw data file
 ```
 ---
+
 ### Architecture Diagram
 The architecture diagram of this project is shown in Figure. The breakdown of the components and their relationships include:
 
