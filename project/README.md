@@ -8,9 +8,8 @@
 project/
 ├── app.py                     # Streamlit app entry point
 ├── Dockerfile                 # Docker configuration
-├── requirements.txt           # Python dependencies
 ├── README.md                  # Project documentation
-├── Outbreak_.csv     # Raw data file
+├── Outbreak_240817.csv     # Raw data file
 
 ### Application Test Steps
 
