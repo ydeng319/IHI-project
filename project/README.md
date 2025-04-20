@@ -4,6 +4,7 @@
 
 ---
 ## project structure
+```bash
 project/
 ├── app.py                     # Streamlit app entry point
 ├── Dockerfile                 # Docker configuration
